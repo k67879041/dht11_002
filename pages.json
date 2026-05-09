@@ -23,6 +23,12 @@
 			"style": {
 				"navigationBarTitleText": "demo3"
 			}
+		},
+		{
+			"path": "pages/demo4/demo4",
+			"style": {
+				"navigationBarTitleText": "femo4"
+			}
 		}
 	],
 	"globalStyle": {
