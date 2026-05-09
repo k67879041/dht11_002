@@ -7,7 +7,7 @@
     
     <!-- 标题 -->
     <view class="title">OneNET 物联网控制器</view>
-    
+    <view><navigator url="/pages/demo1/demo1">跳转测试demo1</navigator></view>
     <!-- 测试文本和嵌套视图 -->
     <view>sdasdsa<view>ssss</view>dsadsff</view>
     
