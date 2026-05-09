@@ -71,7 +71,7 @@ setInterval(()=>{
   // 访问 ref 变量的值需要使用 .value
   picur.value = arrs.value[i%4];
   isActive.value = !isActive.value;
-  size.value = size.value +10;
+  //size.value = size.value +10;
 }, 1000)
 
 // 按钮点击事件处理函数
