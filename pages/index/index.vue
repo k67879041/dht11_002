@@ -11,6 +11,8 @@
     <view><navigator url="/pages/demo2/demo2">跳转测试demo2</navigator></view>
     <view><navigator url="/pages/demo3/demo3">跳转测试demo3</navigator></view>
     <view><navigator url="/pages/demo4/demo4">跳转测试demo4</navigator></view>
+    <view><navigator url="/pages/demo5/demo5">跳转测试demo5</navigator></view>
+    <view><navigator url="/pages/demo6/demo6">跳转测试demo6</navigator></view>
 
     <!-- 测试文本和嵌套视图 -->
     <view>sdasdsa<view>ssss</view>dsadsff</view>

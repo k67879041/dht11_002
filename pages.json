@@ -29,6 +29,18 @@
 			"style": {
 				"navigationBarTitleText": "femo4"
 			}
+		},
+		{
+			"path": "pages/demo5/demo5",
+			"style": {
+				"navigationBarTitleText": "demo5"
+			}
+		},
+		{
+			"path": "pages/demo6/demo6",
+			"style": {
+				"navigationBarTitleText": "demo6"
+			}
 		}
 	],
 	"globalStyle": {

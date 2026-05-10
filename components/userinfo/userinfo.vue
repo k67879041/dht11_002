@@ -9,6 +9,7 @@
 <script setup>
 import { computed } from 'vue';
 import { ref } from 'vue';
+
 // 接收父组件传递的头像、用户名
 const props = defineProps({
   avatar: {
